@@ -1,4 +1,3 @@
-# AWS_Quicksight_project
 # Predictive Maintenance Dashboard for Industrial Equipment
 
 This project demonstrates the development of a **Predictive Maintenance Dashboard** using **Amazon QuickSight**, **Python**, and **AWS**. The dashboard provides real-time insights into equipment health, failure predictions, and maintenance recommendations.
